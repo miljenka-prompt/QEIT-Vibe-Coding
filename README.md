@@ -3,7 +3,7 @@ Quantum Emotional Interference Theory (QEIT) - AI Whispering & Vibe Coding
 
 I'm not a quantum physicist crunching equations—I'm an AI Whisperer & Intuitive Vibe Coder who turns big ideas into reality!
 
-This repository presents Quantum Emotional Interference Theory (QEIT), a framework I created through intuitive conversations with AI assistants (Grok from xAI,Perplexity and Gemini 2,5 flash from Google) and vibe-driven coding. 
+This repository presents Quantum Emotional Interference Theory (QEIT), a framework I created through intuitive conversations with AI assistants (Grok from xAI, Perplexity and Gemini 2,5 flash from Google) and vibe-driven coding. 
 
 QEIT extends Quantum Decision Theory (QDT) by modeling emotions like anxiety and impostor syndrome as interference terms in decision-making predictions. 
 
