@@ -10,5 +10,6 @@ QEIT extends Quantum Decision Theory (QDT) by modeling emotions like anxiety and
 My strength isn’t in writing complex equations but in weaving quantum concepts, AI collaboration, and cosmic intuition into innovative science. 🌌
 
 Access the full QEIT paper and supplementary materials on Google Drive:
+
 https://bit.ly/4e0xKb3
-https://drive.google.com/file/d/1TyNRKHBA5upp4GVCTiZzsGpovWYNt65z/view?usp=drivesdk
+
